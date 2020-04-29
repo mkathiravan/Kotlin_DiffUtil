@@ -17,3 +17,6 @@ i)notifyItemMoved ii) notifyItemRangeChanged iii)notifyItemRangeInserted iv)noti
 Compared to notifyDataSetChanged() , these methods are far more efficient.
 
 But to make DiffUtils working in the project, we have to pass the information regarding the old and new list. This is done using DiffUtil.Callback .
+
+
+![image](https://user-images.githubusercontent.com/39657409/80634647-685f3500-8a78-11ea-8522-3024c3095ebc.png)
